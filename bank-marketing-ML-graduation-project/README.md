@@ -15,7 +15,7 @@ Projede, **UCI Machine Learning Repository** üzerinden sağlanan "Bank Marketin
 * **Problem Türü:** Sınıflandırma (Classification)
 * **Hedef Değişken (Target):** Müşterinin vadeli mevduat teklifini kabul edip etmediği (`yes` veya `no`).
 
-## 📂 Proje Süreci ve Raporlama
+## 📂 Proje Süreci ve Raporlama 
 
 Proje 12 haftalık akademik bir takvimde tamamlanmış olup, her aşama ilgili klasörlerde belgelenmiştir:
 
